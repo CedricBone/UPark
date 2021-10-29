@@ -1,4 +1,4 @@
-Upark - Parking at UB===
+Upark - Parking at UB
 
 # UPark
 
